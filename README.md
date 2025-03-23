@@ -55,7 +55,7 @@ Welcome to my portfolio repository! This project showcases my skills, experience
    ```
 
 ## 📧 Contact Me
-- **Email:** your-email@example.com *(Update this with your email)*
+- **Email:** guptakshitij4723@gmail.com*(Update this with your email)*
 - **LinkedIn:** [https://www.linkedin.com/in/kshitijgupta0909/ *(Update this with your LinkedIn profile)*
 - **GitHub:** [github.com/gupta09-oop](https://github.com/gupta09-oop)
 
